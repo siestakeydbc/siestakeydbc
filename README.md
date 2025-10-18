@@ -1,6 +1,6 @@
 # 👋 Welcome to cloudpunchr
 
-I'm **David B. Cox**, a Junior Cloud Pentester and Offensive Security Professional, pivoting from healthcare IT into red teaming and cloud exploitation.  
+I'm **David B. Cox**, a Junior Cloud Pentester and Offensive Security Professional, pivoting from healthcare IT into AI red teaming and cloud exploitation.  
 My work focuses on building real-world tools, AI-powered workflows, and documenting my process through hands-on labs (HTB, TryHackMe, and TCM Security).
 
 🔗 **Portfolio:** [cloudpunchr.dev](https://cloudpunchr.dev)  
