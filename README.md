@@ -17,7 +17,7 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 
 ---
 
-## ⚡ Internship Spotlight — LOG(N) Pacific | Threat Intelligence Analyst
+## ⚡ Current Internship Spotlight — LOG(N) Pacific | Threat Intelligence Analyst
 - Drove **100% reduction** in critical vulnerabilities across cloud and hybrid assets.  
 - Automated PowerShell + STIG remediation workflows (cutting **90% of high** and **76% of medium** findings).  
 - Designed **Microsoft Sentinel dashboards** to monitor malicious logins and exfiltration attempts.  
