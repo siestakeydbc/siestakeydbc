@@ -39,8 +39,8 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 
 ## 🎓 Education & Certifications
 🎓 Master’s in Cybersecurity Strategy & Information Management — *The George Washington University*  
-🎯 Certified Cloud Associate (INSTITUTE)  
-📘 Pursuing eJPT, PNPT, OSCP, AWS Security 
+🎯 Certified Cloud Associate (INE Institute)  
+📘 Pursuing eJPT, PNPT, OSCP, AWS Security Specialty
 
 ---
 
