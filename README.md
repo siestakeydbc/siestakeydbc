@@ -18,13 +18,33 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 ---
 
 ## ⚡ Current Internship Spotlight — LOG(N) Pacific | Threat Intelligence Analyst
-- Drove **100% reduction** in critical vulnerabilities across cloud and hybrid assets.  
-- Automated PowerShell + STIG remediation workflows (cutting **90% of high** and **76% of medium** findings).  
-- Designed **Microsoft Sentinel dashboards** to monitor malicious logins and exfiltration attempts.  
-- Built **custom Defender rules** for host isolation and incident triage.  
-- Conducted vulnerability analysis using **Tenable.io**, **Defender for Endpoint**, and **Azure Security Center**.
+## 🚀 Current Internship Spotlight — Log(N) Pacific  
 
-🧰 *Core Tools:* Tenable.io · Microsoft Sentinel · Defender for Endpoint · PowerShell · Azure VMs · KQL
+**Role:** Cybersecurity / Threat Intelligence Analyst Intern — Vulnerability Management & Security Operations  
+**Duration:** July 2025 – Present  
+
+### ⚠️ Vulnerability Management Projects
+- [Vulnerability Management Program Implementation](#)  
+- [Programmatic Vulnerability Remediations (PowerShell & Bash)](#)  
+
+### 🛡️ Security Operations & Incident Response Projects
+- [Creation of a Mini SOC and Honeynet](#)
+- 
+
+- [Threat Hunting Detection Use Cases](#)  
+
+---
+
+### **Experience Overview**
+- Achieved a 100% reduction in critical vulnerabilities through automated remediation.  
+- Conducted vulnerability assessments and DISA STIG compliance audits using Tenable across Windows & Linux.  
+- Built PowerShell scripts for vulnerability management and reporting automation.  
+- Performed threat hunting using Microsoft Sentinel & Defender for Endpoint.  
+- Created Sentinel dashboards and KQL queries to detect ransomware, brute-force, and data exfiltration events.  
+- Developed Defender detection rules to automate host isolation and investigation.  
+- Reduced brute-force login incidents by 100% via inbound NSG/firewall rule tuning.  
+
+**Core Technologies:** Tenable.io · Microsoft Sentinel · Defender for Endpoint · PowerShell · Azure · KQL · STIG  
 
 ---
 
