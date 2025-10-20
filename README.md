@@ -17,19 +17,19 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 
 ---
 
-## ⚡ Current Internship Spotlight — LOG(N) Pacific | Threat Intelligence Analyst
-## 🚀 Current Internship Spotlight — Log(N) Pacific  
+## ⚡ Current Internship Spotlight — LOG(N) Pacific | Threat Intelligence Analyst 
 
 **Role:** Cybersecurity / Threat Intelligence Analyst Intern — Vulnerability Management & Security Operations  
 **Duration:** July 2025 – Present  
 
 ### ⚠️ Vulnerability Management Projects
+
 - [Vulnerability Management Program Implementation](#)  
 - [Programmatic Vulnerability Remediations (PowerShell & Bash)](#)  
 
 ### 🛡️ Security Operations & Incident Response Projects
+
 - [Creation of a Mini SOC and Honeynet](#)
-- 
 
 - [Threat Hunting Detection Use Cases](#)  
 
