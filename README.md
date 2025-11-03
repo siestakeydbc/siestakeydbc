@@ -4,7 +4,7 @@ I’m **David B. Cox**, a Junior Cloud Pentester and Offensive Security Professi
 
 My work focuses on building real-world tools, AI-powered workflows, and documenting my process through hands-on labs *(HTB, TryHackMe, and TCM Security)*.  
 
-🌐 **Portfolio:** [cloudpunchr.dev](https://cloudpunchr.dev)  
+🌐 **Portfolio:** [cloudpuncher.dev](https://cloudpuncher.dev)  
 🧠 **AI + Red Teaming Tools:** Local Ollama + Zettlr integration  
 ☁️ **Focus:** AWS Security, Cloud Misconfigurations, and Offensive AI  
 
@@ -65,7 +65,7 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 ## 🎓 Education & Certifications
 🎓 **Master’s in Cybersecurity Strategy & Information Management** — *The George Washington University*  
 ☁️ **ICCA (INE Certified Cloud Associate)** · **CC (ISC2 Certified in Cybersecurity)**  
-🎯 **Pursuing:** eJPT · PNPT · OSCP · AWS Security Specialty  
+🎯 **Pursuing:** Sec+ · eJPT · PNPT · OSCP · AWS Security Specialty  
 
 ---
 
@@ -78,7 +78,7 @@ My work focuses on building real-world tools, AI-powered workflows, and document
 ---
 
 ## 🌐 Connect
-🌍 [Portfolio](https://cloudpunchr.dev)  
+🌍 [Portfolio](https://cloudpuncher.dev)  
 💼 [LinkedIn](https://linkedin.com/in/davidbrookscox)  
 💻 [GitHub](https://github.com/siestakeydbc)  
 🐦 [@dcpentester](https://x.com/dcpentester)
