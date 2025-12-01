@@ -76,10 +76,10 @@ I build tools, break cloud misconfigurations, hunt threats, automate workflows w
 ---
 
 ## 🛠 Featured Projects (Active)
-- **Azure Vulnerability Management Program****   
+- Azure Vulnerability Management Program   
 - **SOC Investigation Labs (Splunk + Sentinel)**  
 - **AI-Augmented Pentesting Toolkit (Ollama + Zettlr)**  
-- **Mini-SOC & Honeynet Simulation (LOG(N) Pacific)*  
+- Mini-SOC & Honeynet Simulation (LOG(N) Pacific)  
 - **KQL Detection Engineering Notebooks**  
 
 *(More being added through your internship & ongoing labs.)*  
