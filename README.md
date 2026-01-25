@@ -1,6 +1,14 @@
-# 👋 Welcome to cloudpunchr  
+## 👋 David Brooks Cox — Cloud Security & Detection Engineering
 
-I’m **David B. Cox**, a Junior Cloud Pentester and Offensive Security Professional transitioning from healthcare IT into **cloud security, detection engineering, SOC analysis, and AI red teaming**.  
+Cloud security practitioner focused on **AWS IAM**, **detection engineering**, and **hands-on security labs**.  
+Healthcare IT → cybersecurity pivot with real-world projects and lab-driven evidence.
+
+🔹 Cloud Security & IAM  
+🔹 Detection Engineering (Splunk, Sentinel)  
+🔹 Security Automation & Offensive Labs  
+
+➡️ Portfolio: https://cloudpuncher.dev  
+➡️ Internship & Hands-On Projects: see pinned repositories below
 
 I build tools, break cloud misconfigurations, hunt threats, automate workflows with AI, and document everything through hands-on labs across AWS, Azure, Splunk, HTB, THM, and CyberDefenders.
 
