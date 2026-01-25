@@ -1,21 +1,16 @@
-## 👋 David Brooks Cox — Cloud Security & Detection Engineering
+# David Brooks Cox — Cloud Security & Detection Engineering
 
-Cloud security practitioner focused on **AWS IAM**, **detection engineering**, and **hands-on security labs**.  
-Healthcare IT → cybersecurity pivot with real-world projects and lab-driven evidence.
+Cloud security and detection engineering practitioner with hands-on experience supporting SOC workflows, vulnerability management, and security automation.
 
-🔹 Cloud Security & IAM  
-🔹 Detection Engineering (Splunk, Sentinel)  
-🔹 Security Automation & Offensive Labs  
+Currently building and documenting internship-based security projects focused on:
+- Detection engineering and SIEM workflows (Splunk, Sentinel)
+- Vulnerability management and remediation
+- Cloud and hybrid security fundamentals (AWS / Azure)
+- Security automation using PowerShell, Bash, and Python
 
-➡️ Portfolio: https://cloudpuncher.dev  
-➡️ Internship & Hands-On Projects: see pinned repositories below
+This GitHub serves as a working portfolio of real-world labs, internship deliverables, and tooling developed to support security operations, detection engineering, and incident response.
 
-I build tools, break cloud misconfigurations, hunt threats, automate workflows with AI, and document everything through hands-on labs across AWS, Azure, Splunk, HTB, THM, and CyberDefenders.
-
-🌐 **Portfolio:** https://cloudpuncher.dev  
-⚙️ **Current Track:** Splunk Certified Cybersecurity Defense Analyst (SCCDA)  
-🧠 **AI + Red Teaming:** Local Ollama + Zettlr workflow  
-☁️ **Focus:** Cloud Misconfigurations · Detection Engineering · Offensive Cloud Security  
+🌐 Portfolio: https://cloudpuncher.dev
 
 ---
 
