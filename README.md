@@ -25,7 +25,7 @@ This GitHub serves as a working portfolio of real-world labs, internship deliver
 ---
 
 ## 🧩 Hands-On Labs & Simulations
-- **Josh Matador’s Azure Range:** SOC, Sentinel, Nessus, Detection & Vulnerability Management  
+- **Josh Madakor’s Azure Range:** SOC, Sentinel, Nessus, Detection & Vulnerability Management  
 - **Splunk Blue Team Academy:** SOC investigations, detection rules, attack analysis  
 - **TryHackMe SOC Level 1:** SIEM, Threat Intel, IR Foundations  
 - **HackTheBox Academy:** Pentesting Fundamentals & Exploitation Labs  
